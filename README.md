@@ -54,14 +54,3 @@ git clone [https://github.com/Sujata005/Calculator.git](https://github.com/Sujat
 This project is open source and available under the MIT License.
 
 Developed by Sujata Bijalwan
-
-
-### To add this to your project:
-1. Create a file named `README.md` in your main folder (where `package.json` is).
-2. Paste the code above into it.
-3. Commit and push the changes:
-```
-   git add README.md
-   git commit -m "Add professional README"
-   git push origin main
-```
